@@ -396,12 +396,12 @@ body {
 
   .content-slide .kei {
     width: 30%;
-    height: 40%;
+/*     height: 40%; */
   }
 
   .content-slide .bur {
     width: 40%;
-    height: 30%;
+/*     height: 30%; */
   }
   
   .fp-controlArrow.fp-next {
