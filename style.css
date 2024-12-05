@@ -391,18 +391,19 @@ body {
   
   .content-slide img {
     width: 40%;
-    /* height: 40%; */
+    aspect-ratio: 3/2;
+    object-fit: contain;
   }
 
-  .content-slide .kei {
+  /*.content-slide .kei {
     width: 30%;
-/*     height: 40%; */
-  }
+   height: 40%; 
+  } */
 
-  .content-slide .bur {
+  /*.content-slide .bur {
     width: 40%;
-/*     height: 30%; */
-  }
+    height: 30%; 
+  }*/
   
   .fp-controlArrow.fp-next {
     border-color: transparent transparent transparent #ff6363 !important;
